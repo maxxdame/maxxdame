@@ -1,4 +1,4 @@
-### Buenos Dias, I am Maxx Diaz 👋
+### Buenos días, I am Maxx Diaz 👋
 
 
 - 🔭 I’m currently working on a crypto wallet prototype.
@@ -8,5 +8,5 @@
 - 💬 Ask me about crypto related projects or macroeconmic events.
 - 📫 How to reach me: maxxdamian95@gmail.com
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I play and watch Football (Soccer) and love retro anime. 
+- ⚡ Fun fact: I play and watch Fútbol (Soccer) every single day and love to watch cartoons. 
 -->
