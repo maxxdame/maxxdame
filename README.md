@@ -1,4 +1,4 @@
-### Buenos días, I am Maxx Diaz 👋
+### Buenos días, I am Maxx Díaz 👋
 
 
 - 🔭 I’m currently working on a crypto wallet prototype.
