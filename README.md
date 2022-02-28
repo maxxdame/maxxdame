@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on landing a career in blockchain.
 - 🌱 I’m currently learning Python and Solidity.
-- 👯 I’m looking to collaborate on Twitter - @maxxdami (https://twitter.com/maxxdami)
+- 👯 I’m looking to collaborate on [Twitter - @maxxdami](https://twitter.com/maxxdami) 
 - 🤔 I’m looking for help with ways to better understand code.
 - 💬 Ask me about crypto related projects or macroeconmic events.
 - 📫 How to reach me: maxxdamian95@gmail.com
