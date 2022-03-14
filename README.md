@@ -4,7 +4,7 @@
 - 🔎 I’m currently seeking career opportunties in blockchain and Web3.
 - 💻 I’m currently learning Python and Solidity.
 - 📚 I'm currently reading ["Blockchain Babel" The Crypto Craze and the Challenge to Business" by Igor Pejic](https://www.amazon.com/Blockchain-Babel-Crypto-craze-Challenge-Business/dp/0749484160) & ["Ikigai" by Hector Garcia](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722) 
-- 📊 I'm currently an Investment Analyst working for the economy of Rhode Island. 
+- 📊 I'm currently an Investment Analyst working for the Commerce of Rhode Island. 
 - 🌍 I lived in 3 different countries: Canada, Spain, and England.
 - 🎓 I hold dual Masters degrees in Finance and International Business.
 - 🐦 I’m looking to connect on [Twitter - @maxxdami](https://twitter.com/maxxdami) or [Linkedin](https://www.linkedin.com/in/maxx-diaz/) 
